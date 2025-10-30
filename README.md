@@ -1,4 +1,4 @@
-🚀 **Lead Generation Automation – Google Maps to Email Extractor** is an end-to-end automated workflow built with n8n that simplifies the process of finding business leads. It automatically scrapes Google Maps for business listings, extracts their website URLs, and intelligently scans each site to find valid email addresses using a regex-based approach.
+🚀 **Lead Generation Agent – Google Maps to Email Extractor** is an end-to-end automated workflow built with n8n that simplifies the process of finding business leads. It automatically scrapes Google Maps for business listings, extracts their website URLs, and intelligently scans each site to find valid email addresses using a regex-based approach.
 
 The workflow includes smart scraping logic with built-in delays to prevent IP blocking and duplicate removal for clean data. Results are automatically organized and exported to Google Sheets, making it easy to access and manage your leads in real time.
 
